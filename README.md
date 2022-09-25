@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cosmasmwau, a desktop software developer using legacy Visual Studio Suite
+- 👀 I’m interested in moving up to webbased and cloud based systems using web development tools, APIs and similar platforms
+- 🌱 I’m currently learning PHP and JavaScript through self-paced tutorials on youtube 
+- 💞️ I’m looking to collaborate on a propject i am working on to convert a desktop based real estate management system to a web-based version of it.
+- 📫 How to reach me on my email cosmas.mwau@gmail.com, mobile +254722513686, or twitter @cosmasmunyao1
